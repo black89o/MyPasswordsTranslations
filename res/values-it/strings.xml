@@ -3,37 +3,37 @@
 
     <!-- Application ##################################################################### -->
     <string name="app_name">My Passwords</string>
-    <string name="app_email_subject">My Passwords App version <xliff:g id="VERSION">%1$s</xliff:g></string>
-    <string name="app_description">A secure and easy to use password manager for Android devices</string>
-    <string name="app_download_message">Get it now for free from Google Play store</string>
+    <string name="app_email_subject">My Passwords Versione <xliff:g id="VERSION">%1$s</xliff:g></string>
+    <string name="app_description">Un modo facile e sicuro per gestire le password sui dispositivi Android</string>
+    <string name="app_download_message">Scaricala ora gratis dal Google Play Store</string>
     <!-- ################################################################################# -->
 
 
     <!-- General ######################################################################### -->
-    <string name="target_folder">Folder<xliff:g id="SPACE">\u0020</xliff:g></string>
+    <string name="target_folder">Cartella<xliff:g id="SPACE">\u0020</xliff:g></string>
     <string name="target_file">File<xliff:g id="SPACE">\u0020</xliff:g></string>
-    <string name="current_location_folder">Location</string>
-    <string name="password_is_too_short">Password is too short</string>
-    <string name="passwords_not_matching">Passwords are not matching</string>
-    <string name="password_not_correct">The password is not correct</string>
-    <string name="required">Required</string>
-    <string name="title">Title</string>
+    <string name="current_location_folder">Posizione</string>
+    <string name="password_is_too_short">La password è troppo corta</string>
+    <string name="passwords_not_matching">Le password non corrispondono</string>
+    <string name="password_not_correct">La password non è corretta</string>
+    <string name="required">Richiesta</string>
+    <string name="title">Titolo</string>
     <string name="account">Account</string>
     <string name="password">Password</string>
     <string name="username">Username</string>
-    <string name="website">Website</string>
-    <string name="description">Description</string>
-    <string name="list_is_empty">There are no entries</string>
-    <string name="last_updated">Last updated</string>
+    <string name="website">Sito web</string>
+    <string name="description">Descrizione</string>
+    <string name="list_is_empty">Nessuna voce inserita</string>
+    <string name="last_updated">Ultimo aggiornamento</string>
     <!-- ################################################################################# -->
 
 
     <!-- Buttons ######################################################################### -->
-    <string name="button_register">REGISTER</string>
-    <string name="button_enter">ENTER</string>
-    <string name="button_upgrade_now">UPGRADE NOW</string>
-    <string name="button_update">UPDATE</string>
-    <string name="button_exit">EXIT</string>
+    <string name="button_register">REGISTRATI</string>
+    <string name="button_enter">INVIO</string>
+    <string name="button_upgrade_now">AGGIORNA ORA</string>
+    <string name="button_update">AGGIORNA</string>
+    <string name="button_exit">ESCI</string>
     <!-- ################################################################################# -->
 
 
